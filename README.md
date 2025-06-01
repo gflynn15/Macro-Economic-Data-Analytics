@@ -1,5 +1,5 @@
 # Macro-Economic-Data-Analytics
-**Respository Description:**This repository contains projects I have worked on utilizing excel
+**Respository Description:** This repository contains projects I have worked on utilizing excel
 Project Purpose: 
 This analysis was conducted because of a noticed historical rise on the CPI. I then wanted to understand how this rise in the CPI is ultimately impacting the labor force. What can be extracted from this analysis is that the CPI has a strong positive correlation value with the number of US employees working more than 1 job. This can play a major impact on US morale as employees are having to work more hours to keep up with rising grocery prices. 
 
